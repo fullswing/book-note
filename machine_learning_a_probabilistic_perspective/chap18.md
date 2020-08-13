@@ -13,12 +13,12 @@ where
     
 $$\boldsymbol{z}_t \text{ : hidden state}$$
 $$\boldsymbol{u}_t \text{ : an optional input or control signal}$$
-$$\boldsymbol{y}_t$$ : the observation
+$$\boldsymbol{y}_t \text{ : the observation}$$
 $$g \text{ : transition model}$$
 $$h \text{ : observation model}$$
 $$\boldsymbol{\epsilon}_t\text{ : the system noise at time $t$}$$
 
-$\boldsymbol{\theta}$ : 全てのパラメータ
+$\boldsymbol{\theta} \text{ : all parameters}$
 
 * すべてのパラメータが既知
 * わからないパラメータがあるとき
